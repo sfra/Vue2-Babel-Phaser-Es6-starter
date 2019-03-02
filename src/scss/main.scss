@@ -1,0 +1,23 @@
+
+@font-face {
+    font-family: "Demonic";
+      src: // url("/fonts/MB-Demonic_Tale.otf") format("opentype"), /* Open Type Font */
+    
+      url("~/static/fonts/MB-Demonic_Tale.woff2") format("woff2"); /* Modern Browsers */
+    font-weight: normal;
+    font-style: normal;
+  };
+   *:not(i) {
+      
+    
+    font-family: Demonic, sans-serif;
+    }
+
+    .LayoutDefault__main {
+        color: #ffffff;
+        background: #000000;
+    }
+
+    .hidden {
+      display: none;
+    }

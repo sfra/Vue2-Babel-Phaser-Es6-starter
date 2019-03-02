@@ -1,0 +1,9 @@
+*.swp
+*~
+.cache
+.idea
+.project
+dist/*
+!dist/_redirects
+node_modules
+src/vendor/
